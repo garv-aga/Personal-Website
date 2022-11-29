@@ -26,11 +26,11 @@ h3 {
 .topCloud {
   position: absolute;
   top: 50px;
-  right: 33%;
+  right: 28%;
 }
 
 .bottomCloud {
   position: absolute;
-  left: 33%;
+  left: 25%;
   bottom: 300px;
 }
